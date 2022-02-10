@@ -76,7 +76,7 @@
 
 git clone https://github.com/riychuhuy/Keyolbot-Md
 
-cd elyasmd
+cd Keyolbot-Md
 
 npm install
 
@@ -108,7 +108,7 @@ pkg install yarn
 
 git clone https://github.com/riychuhuy/Keyolbot-Md
 
-cd elyasmd
+cd Keyolbot-Md
 
 yarn
 
