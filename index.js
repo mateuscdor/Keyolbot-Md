@@ -187,7 +187,9 @@ user.afkTime = -1
 user.afkReason = ''
 }
 
-
+if (chats.startsWith("menu")){
+   alpha.sendMessage(from, { audio: {url : `https://i.top4top.io/m_2235ebaj00.mp3`}, mimetype: 'audio/mp4', ptt: true}, {quoted: fkontak})
+}
         // Bot Status
 const used = process.memoryUsage()
 const cpus = os.cpus().map(cpu => {
